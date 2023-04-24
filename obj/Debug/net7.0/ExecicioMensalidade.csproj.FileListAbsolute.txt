@@ -1,0 +1,15 @@
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\bin\Debug\net7.0\ExecicioMensalidade.exe
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\bin\Debug\net7.0\ExecicioMensalidade.deps.json
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\bin\Debug\net7.0\ExecicioMensalidade.runtimeconfig.json
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\bin\Debug\net7.0\ExecicioMensalidade.dll
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\bin\Debug\net7.0\ExecicioMensalidade.pdb
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ExecicioMensalidade.csproj.AssemblyReference.cache
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ExecicioMensalidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ExecicioMensalidade.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ExecicioMensalidade.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ExecicioMensalidade.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ExecicioMensalidade.dll
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\refint\ExecicioMensalidade.dll
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ExecicioMensalidade.pdb
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ExecicioMensalidade.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\back-end\OrientacaoAObjeto\ExecicioMensalidade\obj\Debug\net7.0\ref\ExecicioMensalidade.dll
